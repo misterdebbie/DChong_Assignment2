@@ -14,9 +14,14 @@ a {
 @media only screen and (max-width: 600px) {
     #filmList {
 
-        text: paleturquoise;
         overflow: scroll;
         overflow-y: scroll;
         overflow-x: hidden;
     }
+}
+.form-control {
+    width: 90%;
+    height: 50em;
+    padding: 10px;
+    border: 5px solid peachpuff;
 }
